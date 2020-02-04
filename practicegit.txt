@@ -1,3 +1,10 @@
 let's practice using git hkdfhkdf
 nkvkdjvodj
-lkdvndl
+lkdv
+
+I am editing on the dev branch
+
+now i'm adding som enew changes 
+
+I'm trying to add more things
+did it work?
